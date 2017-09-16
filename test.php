@@ -29,7 +29,7 @@ h3 { font-size: 1.3em; }
   display: table;
   position: relative;
   text-align: center;
-}
+}/////////
 
 .v-center > div {
   display: table-cell;
