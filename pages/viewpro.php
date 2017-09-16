@@ -314,8 +314,6 @@
                                 <li>
                                     <a href="morris.html">Add task</a>
                                 </li>
-                                <!-- /.nav-third-level -->
-                                </li>
                             </ul>
                             <!-- /.nav-second-level -->
                         </li>
@@ -329,13 +327,13 @@
                                     <a href="morris.html">Add user</a>
                                 </li>
 <!-- /.nav-second-level -->
-                        </li>
-                    </ul>
-                </div>
+                        
+</ul>
+                </nav>
                 <!-- /.sidebar-collapse -->
-            </div>
+           
             <!-- /.navbar-static-side -->
-        </nav>
+        
 
         <div id="page-wrapper">
             <div class="row">
@@ -414,7 +412,7 @@
                    
 
            
-                </div>
+              </div>
                 <!-- /.col-lg-12 -->
             </div>
             <!-- /.row -->
@@ -539,7 +537,7 @@
                             <div id="morris-area-chart"></div>
                         </div>
                         <!-- /.panel-body -->
-                    </div>
+</div>
                     <!-- /.panel -->
                     <!--<div class="panel panel-default">
                         <div class="panel-heading">
